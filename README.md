@@ -2,6 +2,9 @@
 
 Term Extractor is a desktop application built with Python and Tkinter that allows you to extract candidate terms and their contexts from various text-based documents. It supports multiple file formats including `.txt`, `.docx`, `.xliff`, and `.html`. The tool uses spaCy's NLP capabilities to identify multi-word terms and provides a user-friendly interface to review, select, and export extracted terms to CSV.
 
+<img width="894" height="675" alt="image" src="https://github.com/user-attachments/assets/afb5cd3a-7ad6-4a55-b2ed-328b92fe4983" />
+
+
 ---
 
 ## Features
