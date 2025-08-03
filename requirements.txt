@@ -1,0 +1,6 @@
+spacy>=3.0.0
+pandas
+python-docx
+beautifulsoup4
+lxml
+tk
